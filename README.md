@@ -1,14 +1,7 @@
-# Default starter for Gridsome
+# A Bit Haywire
 
-This is the project you get when you run `gridsome create new-project`.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0bcb675f-676b-401f-9172-e7881c33dc46/deploy-status)](https://app.netlify.com/sites/friendly-cray-186f65/deploys)
 
-### 1. Install Gridsome CLI tool if you don't have
+(https://abithaywire.com)
 
-`npm install --global @gridsome/cli`
-
-### 2. Create a Gridsome project
-
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+Owen Bryce is a normal good-natured 10 year-old boy who likes robots and thinks all girls have cooties. One day, however, Owen will soon find out just how abnormal he really is. He'll find out when everything goes a bit haywire.
